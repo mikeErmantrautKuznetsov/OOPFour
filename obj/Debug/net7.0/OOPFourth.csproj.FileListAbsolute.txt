@@ -1,0 +1,15 @@
+D:\Visual Studio\OOPFourth\bin\Debug\net7.0\OOPFourth.exe
+D:\Visual Studio\OOPFourth\bin\Debug\net7.0\OOPFourth.deps.json
+D:\Visual Studio\OOPFourth\bin\Debug\net7.0\OOPFourth.runtimeconfig.json
+D:\Visual Studio\OOPFourth\bin\Debug\net7.0\OOPFourth.dll
+D:\Visual Studio\OOPFourth\bin\Debug\net7.0\OOPFourth.pdb
+D:\Visual Studio\OOPFourth\obj\Debug\net7.0\OOPFourth.csproj.AssemblyReference.cache
+D:\Visual Studio\OOPFourth\obj\Debug\net7.0\OOPFourth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\OOPFourth\obj\Debug\net7.0\OOPFourth.AssemblyInfoInputs.cache
+D:\Visual Studio\OOPFourth\obj\Debug\net7.0\OOPFourth.AssemblyInfo.cs
+D:\Visual Studio\OOPFourth\obj\Debug\net7.0\OOPFourth.csproj.CoreCompileInputs.cache
+D:\Visual Studio\OOPFourth\obj\Debug\net7.0\OOPFourth.dll
+D:\Visual Studio\OOPFourth\obj\Debug\net7.0\refint\OOPFourth.dll
+D:\Visual Studio\OOPFourth\obj\Debug\net7.0\OOPFourth.pdb
+D:\Visual Studio\OOPFourth\obj\Debug\net7.0\OOPFourth.genruntimeconfig.cache
+D:\Visual Studio\OOPFourth\obj\Debug\net7.0\ref\OOPFourth.dll
